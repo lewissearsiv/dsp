@@ -51,10 +51,6 @@ I installed python 3 since it was the recommended version and is growing in popu
 
 ### Q2. Which Python Version Installed   
 
-In the Terminal:
-
-`python3 --version`
-
 My installed version of Python is 3.7.6.
 
  
