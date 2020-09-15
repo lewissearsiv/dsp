@@ -90,7 +90,7 @@ Elvis Presley had a twin brother who died at birth.  What is the probability tha
 >> P(Identical Twin & Boy) = 1/300 * 1/2 = 1/600 <br />
 >> P(Fraternal Twin & Boy) = 1/125 * 1/4 = 1/500 <br />
 >> Now we can calculate the the conditional probability: <br />
->> P(Identical Twin | Twin Brother) = P(Identical Twin \bigcap Boy)/(P(Identical Twin \bigcap Boy)+P(Fraternal Twin \bigcap Boy)) = 5/11. <br />
+>> P(Identical Twin | Twin Brother) = P(Identical Twin & Boy)/(P(Identical Twin & Boy)+P(Fraternal Twin & Boy)) = 5/11. <br />
 
 ---
 
