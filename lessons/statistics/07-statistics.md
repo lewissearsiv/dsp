@@ -98,7 +98,9 @@ Elvis Presley had a twin brother who died at birth.  What is the probability tha
 How do frequentist and Bayesian statistics compare?
 
 >> Bayesian statistics constantly compute and update probabilities with new events or data. They believe that probability is influenced by judgement based on past data or prior knowledge. <br />
+
 >> Frequentist statistics is grounded on the idea that any one event is a part of an infinite sequence of that same event where the results are statistically independent. In that sense, probability is only determined using objective repeatable trials. <br />
+
 >> In an abbreviated analysis, Bayesian inference allows a statistician to be more "abstract" about their use of probability in an experiment and use their judgement. Therefore, Bayesian inferance allows a statistician to give probability and meaning to random parameters with distributions while a frequentist agrees that unknown parameters exist but cannot be examined or treated as random variables since probabilities cannot be associated with them. So in practice, Bayesian models often give distributions based on the assumed parameters while a frequentist reflects on the confidence of a result via a pre-experiment proposal.
 
 ---
